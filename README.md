@@ -96,5 +96,5 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.19373768
 
 ## Files
 
-- `/artifact/Spacetime_Derived_v1.8.pdf`
+- `/artifact/Spacetime_Derived_v1.8.pdf` available via DOI
 - `/artifact/Spacetime_Derived_v1.8.txt`
