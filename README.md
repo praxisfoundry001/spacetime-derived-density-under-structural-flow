@@ -90,7 +90,7 @@ All reasoning, definitions, and final decisions are the author’s.
 
 ## Citation
 
-Zenodo DOI (to be added after archive upload)
+Zenodo DOI: https://doi.org/10.5281/zenodo.19373768
 
 ---
 
